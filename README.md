@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d0a14,50:6d1a2a,100:8b2635&height=200&section=header&text=Amer%20Elrouby&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-stack%20Engineer%20%C2%B7%20Java%20%2F%20Spring%20Boot%20%C2%B7%20Angular%20%C2%B7%20React&descAlignY=58&descSize=18" width="100%" alt="Amer Elrouby" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:3d0a14,50:6d1a2a,100:8b2635&height=230&section=header&text=Amer%20Elrouby&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=24&desc=Full-stack%20Engineer%20%C2%B7%20Java%20%2F%20Spring%20Boot%20%C2%B7%20Angular%20%C2%B7%20React&descAlignY=40&descSize=18" width="100%" alt="Amer Elrouby" />
 
 <div align="center">
 
 <a href="https://github.com/amer-rouby">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=A3324A&center=true&vCenter=true&width=720&lines=Modular+monoliths+with+enforced+module+boundaries;Hexagonal+%2F+Clean+architecture+%C2%B7+DDD+building+blocks;Spring+Boot+APIs+%2B+Angular+%26+Next.js+front+ends;Multi-tenant+SaaS+%C2%B7+POS+%C2%B7+E-commerce+%C2%B7+Marketplaces" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=A3324A&center=true&vCenter=true&width=820&lines=Modular+monoliths+with+enforced+module+boundaries;Hexagonal+%2F+Clean+architecture+%C2%B7+DDD+building+blocks;Spring+Boot+APIs+%2B+Angular+%26+Next.js+front+ends;Multi-tenant+SaaS+%C2%B7+POS+%C2%B7+E-commerce+%C2%B7+Marketplaces" alt="Typing SVG" />
 </a>
 
 </div>
@@ -57,4 +57,4 @@ What I care about most: **clear module boundaries, a domain model that matches t
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amer-rouby/amer-rouby/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b2635,50:6d1a2a,100:3d0a14&height=110&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:8b2635,50:6d1a2a,100:3d0a14&height=110&section=footer" width="100%" alt="" />
